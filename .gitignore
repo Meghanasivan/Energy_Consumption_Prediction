@@ -1,0 +1,15 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+.streamlit/secrets.toml
+.vscode/
+.DS_Store
+Thumbs.db
+mlruns/
+*.db
+*.sqlite
+*.sqlite3
+model/random_forest_energy_model.pkl
+model/household_power_consumption (1).txt
